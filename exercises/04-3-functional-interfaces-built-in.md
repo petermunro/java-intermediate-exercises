@@ -2,12 +2,6 @@
 
 __Objective__: To understand built-in Functional Interfaces and how you can implement them using lambdas.
 
-<style>
-details {
-  margin: 2em;
-}
-</style>
-
 ### 1. Use the Predicate Interface
 
 - The `Predicate` interface checks if a value meets a test (for example, whether it is odd or even or divisible by 3).

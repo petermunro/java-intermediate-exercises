@@ -4,12 +4,6 @@ __Objective__: To understand Functional Interfaces and how you can implement the
 
 Lambdas are a more concise way to implement functional interfaces.
 
-<style>
-details {
-  margin: 2em;
-}
-</style>
-
 ### 1. Re-implement your `IntFunction` using a Lambda
 
 Re-implement your previous solution using a lambda instead of an anonymous function.

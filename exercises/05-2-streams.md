@@ -6,12 +6,6 @@ __Objective__: To understand and apply intermediate operations in Java Streams A
 
 Follow these steps:
 
-<style>
-details {
-  margin: 2em;
-}
-</style>
-
 1. **Create a List of Strings**
    - Create a list of names: "John", "Emma", "Michael", "Sophia", "Daniel".
    - Convert the list to a stream.

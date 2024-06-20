@@ -1,3 +1,10 @@
+Generate exercises based on the content below. The content is included within <content></content> tags.
+
+Below is an example of how I generate my exercises.
+It's delimited within <exercise></exercise> tags, but don't include these in the output.
+The steps are designed to be performed by an attendee who can look at the solution if they need to. These solutions, within the <details></details> tags, are revealed if they click "Reveal Solution".
+
+<exercise>
 # Functional Interfaces
 
 __Objective__: To create and use a custom Functional Interface
@@ -117,3 +124,4 @@ public class Driver {
 }
 ```
 
+</exercise>

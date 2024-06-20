@@ -6,12 +6,6 @@ __Objective__: To understand and implement the Streams API in Java
 
 Follow these steps:
 
-<style>
-details {
-  margin: 2em;
-}
-</style>
-
 1. **Creating a Stream from a Collection**
 
     - Given this list of strings, convert it to a stream and print each element of the stream:
