@@ -6,13 +6,6 @@ __Objective__: To understand and apply the `Optional` type in Java to handle pot
 
 Follow these steps:
 
-<style>
-details {
-  margin: 2em;
-}
-</style>
-
-
 
 1. **Creating an Optional**
    - Create an `Optional` object containing the string "Hello".
